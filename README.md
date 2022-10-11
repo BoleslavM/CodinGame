@@ -9,10 +9,19 @@ This folder is dedicated to **some of my solutions** for the puzzles.
 
 ## Easy
 
+BlackJack Solver
+
+La descente
+
+Onboarding
+
+Power of Thor - Episode 1
+
+Temperatures
 
 ## Medium
 
-
+Shadow of the Knight - Episode 1
 
 ## About me
 
