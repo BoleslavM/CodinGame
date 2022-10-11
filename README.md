@@ -2,7 +2,7 @@
 
 ## What is this place about ?
 
-[**Codingame**](https://www.codingame.com/training) is an online platform offering ressources for developpers to developp their skills in a ludic way.
+[**Codingame**](https://www.codingame.com/training) is an online platform offering ressource for developers to developp their skills.
 
 
 This folder is dedicated to **some of my solutions** for the puzzles.
