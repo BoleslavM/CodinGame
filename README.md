@@ -24,6 +24,8 @@ Temperatures
 
 Shadow of the Knight - Episode 1
 
+Stock Exchange Losses
+
 ## About me
 
  boleslav.meignan@gmail.com
